@@ -1,0 +1,23 @@
+Id,Designator,Package,Quantity,Designation,RS ref
+1,BT9,BatteryHolder_1xPP3,1,Battery,
+2,"C1,C2,C3,C4,C6",C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,5,100 nF,698-3541
+3,"C5,C7",C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,2,1 uF,144-1427
+4,"D1,D2,D3,D4,D5,D6,D7,D8,D9,D10",LED_KPDA1806,10,LED,815-4307
+5,"El1,El2",DipoleElememt,2,DipoleElement,
+6,J1,3PoleScrewTerm,1,ScrewTerm_01x02,897-0843
+7,L1,L_1812_4532Metric_Pad1.30x3.40mm_HandSolder,1,1mH, 763-3222
+8,L2,L_1812_4532Metric_Pad1.30x3.40mm_HandSolder,1,1 mH,763-3222
+9,"Q1,Q2",SOT-23_Handsoldering,2,J310,773-7813
+10,"R1,R4",R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,2,33000,679-1288
+11,"R2,R3",R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,2,470, 679-1428
+12,R5,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1,10000 ohm,125-1189
+13,R6,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1,220 ohm,223-0332
+14,R7,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1,47,223-0253
+15,R8,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1,10k,223-0332
+16,RV1,Potentiometer_Bourns_TC33X_Vertical,1,10k,223-0332
+17,SW1,SW_SPST_CK_RS282G05A3,1,SW_SPST,196-8174
+18,U2,SOIC-8_3.9x4.9mm_P1.27mm,1,LM2931-5.0_SO8,688-9348
+19,U3,MSOP-8_3x3mm_P0.65mm,1,AD8310ARMZ,523-8137
+20,Q3,SOT-23_Handsoldering,1,BFR106,892-2324
+21,T1,transformer Mini Circuits Lab 1:1:1 200MHz,1,T,MCL  T-622-KK81+
+22,U1,PLCC-20,1,LM3914V,208-8597
